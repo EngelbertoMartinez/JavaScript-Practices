@@ -1,0 +1,182 @@
+[
+{
+"numCliente":10220,
+"nombre":"Luis Enrique",
+"apellidos":"Perez Soto",
+"edad":24,
+"direccion":"Culiacan",
+"telefono":"6671111111",
+"correo":"[luisE@gmail.com](mailto:luis@gmail.com)"
+},
+{
+"numCliente":10201,
+"nombre":"Lucia",
+"apellidos":"Lopez Ruiz",
+"edad":21,
+"direccion":"Mazatlan",
+"telefono":"6671111112",
+"correo":"[lucia@gmail.com](mailto:lucia@gmail.com)"
+},
+{
+"numCliente":10202,
+"nombre":"Carlos",
+"apellidos":"Gomez Diaz",
+"edad":35,
+"direccion":"Los Mochis",
+"telefono":"6671111113",
+"correo":"[carlos@gmail.com](mailto:carlos@gmail.com)"
+},
+{
+"numCliente":10203,
+"nombre":"Ana",
+"apellidos":"Castro Vega",
+"edad":29,
+"direccion":"Culiacan",
+"telefono":"6671111114",
+"correo":"[ana@gmail.com](mailto:ana@gmail.com)"
+},
+{
+"numCliente":10204,
+"nombre":"Miguel",
+"apellidos":"Flores Ruiz",
+"edad":42,
+"direccion":"Mazatlan",
+"telefono":"6671111115",
+"correo":"[miguel@gmail.com](mailto:miguel@gmail.com)"
+},
+{
+"numCliente":10205,
+"nombre":"Fernanda",
+"apellidos":"Torres Lopez",
+"edad":19,
+"direccion":"Guasave",
+"telefono":"6671111116",
+"correo":"[fernanda@gmail.com](mailto:fernanda@gmail.com)"
+},
+{
+"numCliente":10206,
+"nombre":"Jorge",
+"apellidos":"Valdez Soto",
+"edad":31,
+"direccion":"Culiacan",
+"telefono":"6671111117",
+"correo":"[jorge@gmail.com](mailto:jorge@gmail.com)"
+},
+{
+"numCliente":10207,
+"nombre":"Daniela",
+"apellidos":"Rios Perez",
+"edad":26,
+"direccion":"Mazatlan",
+"telefono":"6671111118",
+"correo":"[daniela@gmail.com](mailto:daniela@gmail.com)"
+},
+{
+"numCliente":10208,
+"nombre":"Roberto",
+"apellidos":"Mendoza Cruz",
+"edad":38,
+"direccion":"Navolato",
+"telefono":"6671111119",
+"correo":"[roberto@gmail.com](mailto:roberto@gmail.com)"
+},
+{
+"numCliente":10209,
+"nombre":"Laura",
+"apellidos":"Garcia Luna",
+"edad":23,
+"direccion":"Culiacan",
+"telefono":"6671111120",
+"correo":"[laura@gmail.com](mailto:laura@gmail.com)"
+},
+{
+"numCliente":10210,
+"nombre":"Alberto",
+"apellidos":"Quintero Diaz",
+"edad":44,
+"direccion":"Mazatlan",
+"telefono":"6671111121",
+"correo":"[alberto@gmail.com](mailto:alberto@gmail.com)"
+},
+{
+"numCliente":10211,
+"nombre":"Sofia",
+"apellidos":"Lopez Ruiz",
+"edad":20,
+"direccion":"Guamuchil",
+"telefono":"6671111122",
+"correo":"[sofia@gmail.com](mailto:sofia@gmail.com)"
+},
+{
+"numCliente":10212,
+"nombre":"Ricardo",
+"apellidos":"Ortega Flores",
+"edad":33,
+"direccion":"Culiacan",
+"telefono":"6671111123",
+"correo":"[ricardo@gmail.com](mailto:ricardo@gmail.com)"
+},
+{
+"numCliente":10213,
+"nombre":"Monica",
+"apellidos":"Perez Vega",
+"edad":28,
+"direccion":"Mazatlan",
+"telefono":"6671111124",
+"correo":"[monica@gmail.com](mailto:monica@gmail.com)"
+},
+{
+"numCliente":10214,
+"nombre":"Eduardo",
+"apellidos":"Castillo Soto",
+"edad":37,
+"direccion":"Los Mochis",
+"telefono":"6671111125",
+"correo":"[eduardo@gmail.com](mailto:eduardo@gmail.com)"
+},
+{
+"numCliente":10215,
+"nombre":"Patricia",
+"apellidos":"Ramos Cruz",
+"edad":22,
+"direccion":"Culiacan",
+"telefono":"6671111126",
+"correo":"[patricia@gmail.com](mailto:patricia@gmail.com)"
+},
+{
+"numCliente":10216,
+"nombre":"Alejandro",
+"apellidos":"Beltran Diaz",
+"edad":41,
+"direccion":"Mazatlan",
+"telefono":"6671111127",
+"correo":"[alejandro@gmail.com](mailto:alejandro@gmail.com)"
+},
+{
+"numCliente":10217,
+"nombre":"Mariana",
+"apellidos":"Lopez Torres",
+"edad":24,
+"direccion":"Culiacan",
+"telefono":"6671111128",
+"correo":"[mariana@gmail.com](mailto:mariana@gmail.com)"
+},
+{
+"numCliente":10218,
+"nombre":"Pedro",
+"apellidos":"Gutierrez Flores",
+"edad":32,
+"direccion":"Guasave",
+"telefono":"6671111129",
+"correo":"[pedro@gmail.com](mailto:pedro@gmail.com)"
+},
+{
+"numCliente":10219,
+"nombre":"Luisa",
+"apellidos":"Mendoza Ruiz",
+"edad":25,
+"direccion":"Mazatlan",
+"telefono":"6671111130",
+"correo":"[luisa@gmail.com](mailto:luisa@gmail.com)"
+}
+]
